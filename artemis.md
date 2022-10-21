@@ -32,10 +32,11 @@ damit template immer bei 0% beginnt, können tests auch 0 Pkt geben
 
 unsere instructor-accounts: ewolf und aobersteiner
 *	bedeuten automatisch gitlab-ownership
+
 *andere rollen*
-* 		editor (nur bearbeiten, nicht erstellen)
-*		tutor (nicht bearbeiten, kann lösung sehen)
-*		student (keine lösung (außer irgendwann veröffentlicht))
+*	editor (nur bearbeiten, nicht erstellen)
+*	tutor (nicht bearbeiten, kann lösung sehen)
+*	student (keine lösung (außer irgendwann veröffentlicht))
 
 
 git repos unter kurse -> edit -> choose exercise (runter scrollen)
