@@ -56,6 +56,6 @@ Morgenstern im Matrix?
 
 PC-Pools: turtle sollte dabei sein, matplotlib vorher anfragen
 
-interner docker wird hoffentlich von Ubuntu 20.04 auf 22 aktualisiert
+interner docker wurde von Ubuntu 20.04 auf 22 aktualisiert
 
 -> Py 3.10 statt 3.8
